@@ -1,7 +1,3 @@
-Perfect 👍 Thanks for sharing the details of your final task and the presentation file. Based on everything (your case study steps, analysis, insights, and commercial recommendations), here’s a **professional GitHub README draft** you can use for your project repository:
-
----
-
 # 📊 Data Analytics & Commercial Insights Case Study
 
 ## 📌 Overview
@@ -96,9 +92,6 @@ This project is part of a **data analytics job simulation** focused on generatin
 * **Executive Summary Report (PDF)** with insights and recommendations
 * **Presentation deck** for stakeholders
 
----
-
-✅ This case study demonstrates **end-to-end data analytics skills** including data cleaning, customer segmentation, uplift testing, visualization, and generating actionable commercial insights for decision-making.
 
 ---
 
